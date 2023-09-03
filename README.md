@@ -1,11 +1,9 @@
 # Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
 #### Ahmed Alaa, Zaid Ahmad, and Mark van der Laan
 
+![comformal_metalearners_anim](https://github.com/AlaaLab/conformal-metalearners/assets/21158134/4ebc6a38-aa6a-4183-9cb6-65c74d7f1ce7)
 
-https://github.com/AlaaLab/conformal-metalearners/assets/21158134/256da5dc-bc1a-4ce9-b1d5-d18bda43c07f
-
-
-Codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects"
+This is the codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects". It includes the implementation of a general framework for issuing predictive intervals for individual treatment effects (ITEs) by applying the standard conformal prediction (CP) procedure on top of 
 
 ## Installation
 
