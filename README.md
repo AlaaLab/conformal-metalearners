@@ -2,9 +2,7 @@
 #### Ahmed Alaa, Zaid Ahmad, and Mark van der Laan
 
 
-
 https://github.com/AlaaLab/conformal-metalearners/assets/21158134/256da5dc-bc1a-4ce9-b1d5-d18bda43c07f
-
 
 
 Codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects"
