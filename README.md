@@ -3,7 +3,7 @@
 
 ![comformal_metalearners_anim](https://github.com/AlaaLab/conformal-metalearners/assets/21158134/4ebc6a38-aa6a-4183-9cb6-65c74d7f1ce7)
 
-This is the codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects". It includes the implementation of a general framework for issuing predictive intervals for individual treatment effects (ITEs) by applying the standard conformal prediction (CP) procedure on top of pseudo-outcome regression models of the conditional average treatment effects (CATEs). You can use this codebase to apply conformal meta-learners to new datasets, develop new variants of our models or reproduce the experiments in our paper.
+This is the codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects". It includes the implementation of a general framework for issuing predictive intervals for individual treatment effects (ITEs) by applying the standard conformal prediction (CP) procedure on top of pseudo-outcome regression models of the conditional average treatment effects (CATEs). You can use this codebase to apply conformal meta-learners to new datasets or reproduce the experiments in our paper.
 
 ## Installation
 
