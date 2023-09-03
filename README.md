@@ -7,6 +7,8 @@ This is the codebase for the paper "Conformal Meta-learners for Predictive Infer
 
 ## Installation
 
+To use the codebase, download the from source and install all dependencies in requirements.txt.
+
 ## Usage
 
 ```
