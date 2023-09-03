@@ -12,7 +12,7 @@ Download the codebase from source and install all dependencies in requirements.t
 ## Usage
 
 ```
-python run_conformal_metalearners.py -t 0.1 -b "DR" "IPW" "X" \
+python run_conformal_metalearners.py -t *test fracion* -b *List of baselines* \
                                      -s "B" -e "Synthetic" -n 1000 \
                                      -d 10  -q True -v True -x 100 \
                                      -c 0.1 -w True
