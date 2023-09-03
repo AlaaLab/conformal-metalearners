@@ -1,0 +1,7 @@
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==1.5.3
+quantile_forest==1.2.0
+scikit_learn==1.2.2
+scipy==1.11.2
+seaborn==0.12.2
