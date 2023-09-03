@@ -27,7 +27,7 @@ python run_conformal_metalearners.py -t "test fracion" -b "List of baselines" \
                                      -v "Saving figures" -x "Number of experiments" \
                                      -c "Target coverage" -w "Sweep all coverage probabilities"
 ```
-The list of meta-learners baselines is ["X", "DR", "IPW"]. The parameter -s can be set to "A" or "B" to select the synthetic data setup in Section 5.1. The parameter -e designates the dataset type, with three options: "Synthetic", "IHDP" and "NLSM". The number of data points and feature dimensions are ignored in real data experiments. The parameter -q determines if the meta-learners use quantile regression in the base learners (mean regression is used if -q is set to False). 
+The list of meta-learners baselines is ["X", "DR", "IPW"]. The parameter -s can be set to "A" or "B" to select the synthetic data setup in Section 5.1. The parameter -e designates the dataset type, with three options: "Synthetic", "IHDP" and "NLSM". The number of data points and feature dimensions are ignored in real data experiments. The parameter -q determines if the meta-learners use quantile regression in the base learners (mean regression is used if -q is set to False). Results of experiments are saved in the *figures* and *log* folders.
 
 
 ## Citation
