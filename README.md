@@ -12,10 +12,12 @@ Download the codebase from source and install all dependencies in requirements.t
 ## Usage
 
 ```
-python run_conformal_metalearners.py -t *test fracion* -b *List of baselines* \
-                                     -s "B" -e "Synthetic" -n 1000 \
-                                     -d 10  -q True -v True -x 100 \
-                                     -c 0.1 -w True
+python run_conformal_metalearners.py -t "test fracion" -b "List of baselines" \
+                                     -s "Synthetic data setup" -e "Dataset type" \
+                                     -n "Number of synthetic data points" \
+                                     -d "Number of feature dimensions"  -q "Use of quantile regression"\
+                                     -v "Saving figures" -x "Number of experiments" \
+                                     -c "Target coverage" -w "Sweep all coverage probabilities"
 ```
 
 ```
