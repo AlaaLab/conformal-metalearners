@@ -1,4 +1,4 @@
-# conformal-metalearners
+# Conformal Meta-learners for Predictive Inference of Individual Treatment Effects
 Codebase for the paper "Conformal Meta-learners for Predictive Inference of Individual Treatment Effects"
 
 If you use our code in your research, please cite:
