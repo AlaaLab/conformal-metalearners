@@ -9,6 +9,10 @@ python run_conformal_metalearners.py -t 0.1 -b "DR" "IPW" "X" \
                                      -c 0.1 -w True
 ```
 
+```
+bash experiments.sh
+```
+
 If you use our code in your research, please cite:
 ```sh
 @article{alaa2023conformal,
