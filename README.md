@@ -37,7 +37,7 @@ If you use our code in your research, please cite:
 @article{alaa2023conformal,
   title={Conformal Meta-learners for Predictive Inference of Individual Treatment Effects},
   author={Alaa, Ahmed and Ahmad, Zaid and van der Laan, Mark},
-  journal={arXiv preprint arXiv:2308.14895},
+  journal={Advances in Neural Information Processing Systems},
   year={2023}
 }
 ```
